@@ -1,3 +1,9 @@
+# Kid Website
+Website built with ASP.NET (C#) and SQL Server.
+
+## Tech stack
+ASP.NET, C#, [Entity Framework / ADO.NET], SQL Server, HTML, CSS, JavaScript
+
 # KidClass - Kids Learning Center Website
 
 A responsive website for a Kids Learning Center built with ASP.NET (VB.NET).  
